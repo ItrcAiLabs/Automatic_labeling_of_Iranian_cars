@@ -1,1 +1,0 @@
-# Automatic_labeling_of_Iranian_cars
